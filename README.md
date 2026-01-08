@@ -91,6 +91,8 @@ Save outputs directly to the project folder
 Display user confirmation messages after export
 
 This automation reduces manual effort and ensures reports are always generated using the most current data.
+<img width="754" height="413" alt="image" src="https://github.com/user-attachments/assets/57422ba5-15f0-45c6-9e4e-7a1442f65221" />
+
 
 🎯 Results & Business Value
 
