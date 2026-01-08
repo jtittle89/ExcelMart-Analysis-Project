@@ -1,5 +1,5 @@
 # ExcelMart-Analysis-Project
-Portfolio Project for Recruiters
+Sales Performance Excel Analysis Project
 📌 Project Overview
 
 This project demonstrates an end-to-end advanced Excel analytics solution built to analyze sales performance for a fictional retail company, ExcelMart. The goal was to showcase professional-grade Excel capabilities commonly used by data analysts, including data modeling, automation, dashboarding, and business insights.
