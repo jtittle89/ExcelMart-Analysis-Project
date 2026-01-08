@@ -78,6 +78,9 @@ Conditional formatting for performance insights
 
 Executive-friendly, single-page layout optimized for PDF export
 
+<img width="1470" height="759" alt="image" src="https://github.com/user-attachments/assets/bcc342cd-b78e-4223-92f4-a21da2542f9e" />
+
+
 ⚙️ Automation (VBA)
 
 The project includes VBA automation to:
@@ -91,6 +94,7 @@ Save outputs directly to the project folder
 Display user confirmation messages after export
 
 This automation reduces manual effort and ensures reports are always generated using the most current data.
+
 <img width="754" height="413" alt="image" src="https://github.com/user-attachments/assets/57422ba5-15f0-45c6-9e4e-7a1442f65221" />
 
 
